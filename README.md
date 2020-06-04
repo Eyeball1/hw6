@@ -7,11 +7,11 @@ Homework 6 - Weather Dashboard by davidmichaelhughey@gmail.com
 
 This is the link to the github repo:
 
-ph
+https://github.com/Eyeball1/hw6/edit/master/README.md
 
 This is the link to the live website:
 
-ph
+https://eyeball1.github.io/hw6/index.html
 
 ### Description
 
